@@ -3,6 +3,10 @@ Progetto del corso triennale di "Elaborazione delle immagini"
 
 Progetto sviluppato in MatLab per identificare degli utensili all'interno di alcune immagini.
 
+## Membri del gruppo
+- Davide Creati
+- Andrea Delli Fiori
+
 ## Considerazioni per lo sviluppo
 - Diversi utensili possono appartenere alla stessa categoria (es. chiavi inglesi di diversa dimensione)
 - Vogliamo riconoscere le categorie (es. cacciaviti vs. pinze)
